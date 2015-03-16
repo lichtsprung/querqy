@@ -126,7 +126,7 @@
 	<distributionManagement>
 		<repository>
 			<id>bintray</id>
-			<url>https://bintray.com/lichtsprung/maven/querqy</url>
+			<url>https://api.bintray.com/maven/lichtsprung/maven/querqy</url>
 		</repository>
 	</distributionManagement>
 </project>
